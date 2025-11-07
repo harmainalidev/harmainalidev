@@ -1,1 +1,1 @@
-iam harmain, web developer |react||nextjs|.          |typescript||tailwind scc||building clean,performant,UI/UX|open source enthusiast
+I'm harmain, web developer |react||nextjs|.          |typescript||tailwind scc||building clean,performant,UI/UX|open source enthusiast
